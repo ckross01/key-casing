@@ -28,9 +28,9 @@
     "jshint": "^2.8.0",
     "jshint-stylish": "^2.0.1",
     "tap-spec": "^4.0.2",
-    "tape": "^4.0.1"
+    "tape": "^4.1.0"
   },
   "dependencies": {
-    "lodash": "^3.10.0"
+    "lodash": "^3.10.1"
   }
 }
